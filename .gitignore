@@ -1,2 +1,5 @@
 #Ignore Shortcut Links
 *.lnk
+
+#Ignore exports folders
+**/Export
